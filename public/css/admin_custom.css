@@ -1,0 +1,3 @@
+#sidebar ul.menu-categories li.menu.active > .dropdown-toggle {
+    background-image: linear-gradient(115deg, #49AB3C 100%, #db4049 120%);
+}
